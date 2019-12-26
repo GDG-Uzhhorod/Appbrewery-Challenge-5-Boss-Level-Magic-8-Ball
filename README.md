@@ -5,7 +5,7 @@
 [Appbrewery](https://www.appbrewery.co/): The Complete Flutter Development Bootcamp Using Dart 
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+![Finished App](https://github.com/GDG-Uzhhorod/Appbrewery-Challenge-5-Boss-Level-Magic-8-Ball/blob/master/magic-ball.gif)
 
 
 
