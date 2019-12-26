@@ -22,18 +22,19 @@ class _BallState extends State<Ball> {
       backgroundColor: Colors.blue,
       appBar: AppBar(
         title: Text('Ask Me Anithing'),
+        centerTitle: true,
       ),
       body: Center(
         child: FlatButton(
             onPressed: () {
-              setNewAnswear();
+              setNewAnswer();
             },
             child: Image.asset('images/ball$ballNumber.png')),
       ),
     );
   }
 
-  void setNewAnswear() {
+  void setNewAnswer() {
     ballNumber = Random().nextInt(4) + 1;
     print(ballNumber);
     setState(() {});
